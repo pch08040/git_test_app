@@ -33,3 +33,15 @@
 - **데이터 로드 요청:** subStarted() 메서드가 호출되어 사용자의 레포지토리 데이터를 로드합니다.
 - **API 호출 및 데이터 등록:** _subGetData() 메서드가 API에 요청을 보내고, 응답으로 받은 JSON 데이터를 GitSubData 객체의 리스트로 등록합니다.
 - **UI 업데이트:** 모든 상태 변경되면 notifyListeners()가 호출되어 화면이 변경되어 데이터를 반영하도록 합니다.
+
+### 실행 이미지
+
+![홈 페이지]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%202.png
+
+![이벤트 배너]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%203.png
+
+![이벤트 페이지 이동 확인]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%204.png
+
+![서브 페이지]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%205.png
+
+![레파지토리 확인]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%206.png
