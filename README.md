@@ -36,12 +36,12 @@
 
 ### 실행 이미지
 
-![홈 페이지]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%202.png
+![홈 페이지](https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%202.png)
 
-![이벤트 배너]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%203.png
+![이벤트 배너](https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%203.png)
 
-![이벤트 페이지 이동 확인]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%204.png
+![이벤트 페이지 이동 확인](https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%204.png)
 
-![서브 페이지]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%205.png
+![서브 페이지](https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%205.png)
 
-![레파지토리 확인]https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%206.png
+![레파지토리 확인](https://github.com/pch08040/git_test_app/blob/main/assets/images/%EB%8C%80%EC%A7%80%206.png)
